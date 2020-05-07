@@ -1,0 +1,25 @@
+.join-chat-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    background-color: #1A1A1A;
+}
+
+.join-chat-wrapper{
+    width: 20%;
+}
+
+.join-input{
+    border-radius: 0;
+    padding: 15px 20px;
+    width: 100%;
+}
+
+.joinchat-heading{
+    color: white;
+    font-size: 2.5em;
+    padding-bottom: 10px;
+    border-bottom: 2px solid white;
+}
